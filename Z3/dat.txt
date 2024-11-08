@@ -1,0 +1,8 @@
+S ovo je sanduk
+10 3 12 3 5
+V ovo je vreca
+0.5  15
+S i ovo isto sanduk
+14 4 2 4 1 5
+B    a ovo bgm bure
+5 1400 40
