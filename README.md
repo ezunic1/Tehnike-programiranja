@@ -1,7 +1,14 @@
-# Tehnike-programiranja
-Zadaće i materijali iz predmeta - Tehnike programiranja (2024. godine), pisane u C++ programskom jeziku.
+# Tehnike programiranja (C++)  
 
-Zadaće su poredane u istoimenim branch-evima, a ispod se nalazi i ostvareni broj bodova na zadaćama.
+This repository contains all of my assignments for the **Tehnike programiranja (C++)** course at the University of Sarajevo, Faculty of Electrical Engineering.  
 
-![image](https://github.com/user-attachments/assets/a5c93f87-9395-42d9-a7ca-04b1f45b288d)
+## 📂 Repository Contents  
+- **Assignments** – official homework tasks written in C++  
 
+## 🛠 Topics Covered  
+- Basics of C++ (syntax, input/output, control flow)  
+- Functions and modular programming  
+- Pointers and dynamic memory management  
+- Object-Oriented Programming (classes, inheritance, polymorphism)  
+- Templates and Generic Programming  
+- Exception Handling  
